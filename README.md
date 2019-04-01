@@ -1,2 +1,4 @@
 # pusherpoll
-Real time poll using Pusher, Node.js and Express
+Real-Time polling application using Pusher, Node.js, Express, MongoDB and CanvasJS
+
+## Quick Start
